@@ -45,6 +45,9 @@ The dashboard allows users to explore customer categories, states, regions, ship
 
 ### 📈 Dashboard Preview
 
+![E-commerce Dashboard](Ecommerce%20Sales%20Dashboard.png)
+
+
 ### 📊 Insights Generated
 
 - Overall YTD Sales: $11.53M with a slight decline of -0.83% YoY.
